@@ -1,3 +1,6 @@
+
+
+
 Bank Customer Churn Analysis – Power BI
 Project Overview
 This project analyzes customer churn behavior in a retail banking environment using Power BI. The objective is to identify key factors influencing customer attrition and provide actionable insights to support customer retention strategies.
